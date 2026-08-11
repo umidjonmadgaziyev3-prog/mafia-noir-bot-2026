@@ -83,4 +83,4 @@ def civilian_players(game):
 
 def role_description(role):
     descriptions = {
-        "Don": "👑 Mafia boshlig‘i. Mafia jamoasini bosh
+"Don": "👑 Mafia boshlig‘i. Mafia jamoasini boshqaradi.",
